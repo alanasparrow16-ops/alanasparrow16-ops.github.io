@@ -1,5 +1,5 @@
 body {
-background: rgb(255, 100, 234);
+background: rgb(51, 69, 231);
 color: rgb(0, 0, 0);
 padding: 10px;
 font-family: Arial, sans-serif;
@@ -14,7 +14,7 @@ margin: auto;
 
 /* navigation menu */
 nav {
-background: rgba(188, 50, 243, 0.685);
+background: rgba(50, 243, 147, 0.685);
 margin: 0 auto;
 display: flex;
 padding: 10px;
@@ -24,7 +24,7 @@ padding: 10px;
 h1 {
 display: flex;
 align-items: center;
-color: rgba(0, 0, 0, 0);
+color: rgba(0, 0, 0, 100);
 flex: 1;
 margin: 0;
 }
