@@ -1,126 +1,102 @@
 body {
-background: rgb(245, 80, 223);
-color: rgb(243, 11, 193);
-padding: 10px;
-font-family: Arial, sans-serif;
+  background: rgb(125, 198, 205);
+  background-image: url("https://i.makeagif.com/media/2-14-2025/xRnbnM.gif");
+  color: rgb(45, 45, 45);
+  padding: 10px;
+  font-family: Arial, sans-serif;
 }
-
-
-#all-contents {
-max-width: 800px;
-margin: auto;
+to: Room All chat is currently being stored permanently ​ Write a message...
+  Controls #all-contents {
+  max-width: 800px;
+  margin: auto;
 }
-
 
 /* navigation menu */
 nav {
-background: rgba(175, 84, 250, 0.685);
-margin: 0 auto;
-display: flex;
-padding: 10px;
+  background: #af3efaaf;
+  margin: 0 auto;
+  display: flex;
+  padding: 10px;
 }
-
 
 h1 {
-display: flex;
-align-items: center;
-color: rgba(0, 0, 0, 100);
-flex: 1;
-margin: 0;
+  display: flex;
+  align-items: center;
+  color: rgba(0, 0, 0, 100);
+  flex: 1;
+  margin: 0;
 }
-
 
 #nav-ul {
-list-style-type: none;
-margin: 0;
-padding: 0;
-display: flex;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
 }
-
 
 .nav-li {
-display: inline-block;
-padding: 0 10px;
+  display: inline-block;
+  padding: 0 10px;
 }
-
 
 a {
-text-decoration: none;
-color: #ffffff;
+  text-decoration: none;
+  color: #ffffff;
 }
-
 
 /* main container area beneath menu */
 main {
-background: rgb(0, 0, 0);
-display: flex;
-margin-top: 20px;
+  background: rgb(0, 0, 0);
+  display: flex;
+  margin-top: 20px;
 }
-
 
 .sidebar {
-margin-right: 25px;
-padding: 10px;
+  margin-right: 25px;
+  padding: 10px;
 }
-
 
 .sidebar-img {
-width: 200px;
+  width: 200px;
 }
-
 
 .content {
-flex: 1;
-padding: 15px;
+  flex: 1;
+  padding: 15px;
 }
-
 
 /* interests section styles */
 #interests {
-border: 4px rgb(255, 255, 255) ridge;
-padding: 8px;
-margin-top: 20px;
+  border: 4px rgb(255, 255, 255) ridge;
+  padding: 8px;
+  margin-top: 20px;
 }
 
-
-h2, h3 {
-margin: 0px;
+h2,
+h3 {
+  margin: 0px;
 }
 .content h1 {
-color: rgb(255, 0, 170);
+  color: rgb(255, 0, 170);
 }
-
 
 #portfolio {
-list-style-type: none;
-padding-left: 0;
+  list-style-type: none;
+  padding-left: 0;
 }
-
 
 #portfolio li {
-background: #000000;
-padding: 10px;
-border-radius: 10px;
-margin-bottom: 10px;
+  background: #000000;
+  padding: 10px;
+  border-radius: 10px;
+  margin-bottom: 10px;
 }
-
 
 #portfolio li:hover {
-background: #fcf7f7;
+  background: #fcf7f7;
 }
-
 
 #portfolio a {
-text-decoration: none;
-color: #f0acac;
+  text-decoration: none;
+  color: #f0acac;
 }
-
-
-
-
-
-
-
-
-
-
