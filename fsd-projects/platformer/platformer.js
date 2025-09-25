@@ -34,14 +34,14 @@ $(function () {
 //createPlatform(xPos, yPos, Width, Height)
 createPlatform(300, 700, 100, 5, "blue", 100, 300, 3) 
 createPlatform(200, 600, 100, 5, "Purple",200, 400, 3)
-createPlatform(400, 500, 100, 5, "pink", 300, 500, 4)
+createPlatform(400, 500, 100, 5, "pink", 300, 600, 4)
 createPlatform(200, 400, 100, 4, "red", 200, 600, 4 )
 
 
     // TODO 3 - Create Collectables
 //createCollectable("type", xPos, yPos, gravity?, bounce? Between 0-1, minX = null, maxX = null, speed = 1)
 //"type" can be 6 things... database diamond grace kennedi max steve
-createCollectable("alien", 400, 300) 
+createCollectable("alien", 400, 200) 
 createCollectable("alien", 600, 100, 0.1)
 
     
